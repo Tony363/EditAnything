@@ -34,3 +34,4 @@ if __name__ == "__main__":
     )
     demo = create_demo(model.process, model.process_image_click)
     demo.queue().launch(server_name="0.0.0.0")
+    # https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once/issues/59
