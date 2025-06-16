@@ -1,0 +1,8 @@
+=0.1.5
+=0.7.5
+__pycache__/
+annotator/__pycache__/
+groundingdino_swinb_cogcoor.pth
+models/sam_vit_h_4b8939.pth
+swinbase_part_0a0000.pth
+utils/__pycache__/
